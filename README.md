@@ -6,7 +6,7 @@
 
 
 <div  style="margin-bottom:20px">
-<img src="https://github.com/pablo8gargo/github-readme-stats" alt="Top Langs">
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?pablo8gargo=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
 </div>
 
 
