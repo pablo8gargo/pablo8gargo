@@ -6,8 +6,6 @@
 
 
 <div  style="margin-bottom:20px">
-[![Pranesh's GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=pablo8gargo\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-</div>
 
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css)](https://skillicons.dev)
