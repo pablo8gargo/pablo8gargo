@@ -6,7 +6,7 @@
 
 
 <div  style="margin-bottom:20px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo8gargo&layout=compact&theme=radical" alt="Top Langs">
+<img src="https://github.com/pablo8gargo/github-readme-stats" alt="Top Langs">
 </div>
 
 
