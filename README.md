@@ -6,7 +6,7 @@
 
 
 <div  style="margin-bottom:20px">
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?pablo8gargo=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=pablo8gargp\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 </div>
 
 
